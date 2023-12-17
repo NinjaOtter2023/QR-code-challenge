@@ -5,15 +5,6 @@ body {
     display: flex;
     flex-direction: column;
     margin: 75px;
-
-    
-    
-   
-}
-section {
-    align-items: center;
-    justify-content: center;
-
 }
 div {
     display: flex;
@@ -32,8 +23,6 @@ div {
     background-color: hsl(0, 0%, 100%);
     box-shadow: 3px 3px 10px hsl(220, 15%, 55%);
     border-radius: 4%;
-    
-
 }
 .card img {
     grid-row: 1/2;
@@ -43,7 +32,6 @@ div {
     height: auto;
     margin-top: 12px;
     border-radius: 3%;
-    
 }
 .card h2 {
     grid-row: 2/3;
@@ -70,7 +58,6 @@ footer p:first-of-type {
     text-align: center;
     font-family: sans-serif;
     font-size: 12px;
-
 }
 footer p:nth-of-type(2) {
     grid-row: 5/6;
