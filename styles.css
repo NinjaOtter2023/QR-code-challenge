@@ -33,7 +33,7 @@ div {
     margin-top: 12px;
     border-radius: 3%;
 }
-.card h2 {
+.card h1 {
     grid-row: 2/3;
     text-align: center;
     font-family: "Outfit", sans-serif;
